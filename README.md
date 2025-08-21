@@ -1,6 +1,6 @@
 ## BugWild Website
 
-A website for the upcoming videogame BugWild. 
+A website for the upcoming video game BugWild. 
 
 ---
 
