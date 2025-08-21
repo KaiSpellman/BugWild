@@ -1,0 +1,12 @@
+.main-content {
+  min-height: calc(100vh - 80px); 
+  padding: 2rem;
+}
+
+.footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #18501f;
+  color: white;
+  font-size: 0.9rem;
+}

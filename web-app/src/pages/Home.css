@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+.home-container {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200; 
+  font-style: normal;
+  background-color: #1f1f1f; 
+  color: #f0f0f0; 
+  padding: 2rem;
+  min-height: 100vh;
+}
+
+.home-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 250; 
+}
+
+.home-container p {
+  font-size: 1.3rem;
+  line-height: 1.6;
+}
+
+.home-container a {
+  color: #1e90ff; 
+}
